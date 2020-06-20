@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gazprom</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_create_idea">Create idea</string>
+    <string name="menu_notice_idea">Notice idea</string>
+</resources>
